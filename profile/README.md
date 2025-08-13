@@ -4,13 +4,13 @@ A modern, ai-native spreadsheet web application for workbooks, inspired by Googl
 
 ## 🛠 Tech Stack
 
-Frontend:
-	•	React + Vite
-	•	Tailwind CSS for styling
+- Frontend:
+	- React + Vite
+ 	- Tailwind CSS for styling
 
- Backend:
-	•	Go REST API
-	•	Hosted separately from frontend
+- Backend:
+	- Go REST API
+	- Hosted separately from frontend
 
 ## 🗺️ Roadmap
 ...
