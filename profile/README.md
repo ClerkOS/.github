@@ -1,6 +1,7 @@
 # Clerk
 
 A modern, ai-native spreadsheet web application for workbooks, inspired by Google Sheets, Excel, and a desire for a clean modular interface that makes data more manageable.
+Try it here: [@Clerk](https://clerk-plum.vercel.app/)
 
 ## 🛠 Tech Stack
 
