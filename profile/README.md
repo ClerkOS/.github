@@ -4,11 +4,11 @@ A modern, ai-native spreadsheet web application for workbooks, inspired by Googl
 
 ## 🛠 Tech Stack
 
-- Frontend:
+* Frontend:
 	- React + Vite
  	- Tailwind CSS for styling
 
-- Backend:
+* Backend:
 	- Go REST API
 	- Hosted separately from frontend
 
@@ -16,6 +16,5 @@ A modern, ai-native spreadsheet web application for workbooks, inspired by Googl
 ...
 
 ## 📌 Related Repositories
-
 (Internal to organization – visible through contributions)
-	•	Clerk Backend API – Go-based service powering ai + spreadsheet features
+* Clerk Backend API – Go-based service powering ai + spreadsheet features
